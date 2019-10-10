@@ -1,0 +1,35 @@
+* {
+    color: white;
+}
+
+div {
+    width: 60%;
+}
+
+body {
+    background-color: black;
+    background-image: url("../img/facilities.jpg");
+    font-family: 'Times New Roman', Times, serif
+}
+
+aside {
+    float: right;
+}
+#table{
+    position: absolute;
+    top: 570px;
+    left: 20px;
+
+    height: 250px;
+    width: 600px;
+    
+
+    background-color:chartreuse;
+    
+    text-align: left;
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+}
